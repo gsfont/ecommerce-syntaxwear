@@ -81,7 +81,7 @@
     padding: 20px 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
     .footer-content{
         flex-direction: column;
         gap: 2rem;
@@ -94,7 +94,7 @@
     }
 
     .footer-social ul{
-        gap:1rem;
+        gap: 1rem;
     }
 
     .footer-copy{
